@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74bd0115-c963-4c8a-9dca-34c1e66d65c4" name="Default Changelist" comment="" />
+    <list default="true" id="74bd0115-c963-4c8a-9dca-34c1e66d65c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phptravels.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/functionalTests/FirstFeature.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/functionalTests/FirstFeature.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/phptravels.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/RestAssuredPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/RestAssuredPage.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,80 +23,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/managers/FileReaderManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinition/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="221">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1139">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/managers/PageObjectManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/managers/WebDriverManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RestAssuredPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,10 +46,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/dataProvider/ConfigFileReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/configs/Configuration.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enums/DriverType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enums/EnvironmentType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/TestContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/functionalTests/RestAssured.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -129,6 +121,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinition/HomePageSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -143,6 +149,9 @@
     <findStrings>
       <find>rest</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,13 +169,13 @@
         <option value="$PROJECT_DIR$/src/main/java/dataProvider/ConfigFileReader.java" />
         <option value="$PROJECT_DIR$/configs/Configuration.properties" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/functionalTests/FirstFeature.feature" />
         <option value="$PROJECT_DIR$/src/main/java/cucumber/RestAssuredExtension.java" />
         <option value="$PROJECT_DIR$/src/main/java/managers/FileReaderManager.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/stepsDefinition/RestAssuredSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/functionalTests/RestAssured.feature" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/RestAssuredPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/functionalTests/FirstFeature.feature" />
       </list>
     </option>
   </component>
@@ -183,10 +192,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -194,110 +203,102 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="configs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cucumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dataProvider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="enums" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="managers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="functionalTests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="runners" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="phptravels" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phptravels" type="462c0819:PsiDirectoryNode" />
+              <item name="JenkinsSetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JenkinsSetup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -310,9 +311,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/WorkFromHome/wfh" />
+    <property name="last_opened_file_path" value="D:/Repos/EpamMentoringProgram" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -376,19 +378,13 @@
       <workItem from="1560152294464" duration="12935000" />
       <workItem from="1560338837004" duration="5600000" />
       <workItem from="1560425222165" duration="1961000" />
+      <workItem from="1568286010671" duration="757000" />
+      <workItem from="1568286901449" duration="656000" />
+      <workItem from="1568381805524" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner - 2019.06.10 at 16h 44m 13s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner - 2019.06.10 at 16h 44m 38s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestRunner - 2019.06.12 at 14h 53m 59s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestRunner - 2019.06.12 at 15h 30m 07s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
@@ -410,15 +406,23 @@
     <history-entry file="TestRunner - 2019.06.12 at 15h 51m 29s.xml">
       <configuration name="TestRunner" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestRunner - 2019.09.12 at 14h 01m 47s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2019.09.12 at 14h 06m 19s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestRunner - 2019.09.12 at 14h 15m 52s.xml">
+      <configuration name="TestRunner" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61076000" />
+    <option name="totallyTimeSpent" value="62519000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20954692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,7 +431,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9264392" weight="0.3434453" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.92537314" visible="true" weight="0.3434453" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -436,9 +440,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.07356077" side_tool="true" visible="true" weight="0.3434453" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4824094" weight="0.32827735" />
-      <window_info anchor="right" id="Module Dependencies" visible="true" weight="0.015991472" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.07462686" side_tool="true" visible="true" weight="0.34219858" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.48187634" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -448,26 +451,74 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Module Dependencies" order="9" visible="true" weight="0.015991472" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/phptravels.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configs/Configuration.properties">
+    <entry file="file://$PROJECT_DIR$/phptravels.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/RestAssuredExtension.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/managers/FileReaderManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="35" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/RestAssuredExtension.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/managers/PageObjectManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/managers/WebDriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RestAssuredPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/runners/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="204">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -475,23 +526,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinition/HomePageSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinition/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/TestContext.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/functionalTests/FirstFeature.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -519,66 +569,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/managers/WebDriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/managers/PageObjectManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/managers/FileReaderManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cucumber/TestContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/functionalTests/RestAssured.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinition/Hooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1139">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/functionalTests/FirstFeature.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -596,20 +600,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/functionalTests/RestAssured.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinition/HomePageSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="340">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RestAssuredPage.java">
+    <entry file="file://$PROJECT_DIR$/configs/Configuration.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
